@@ -1,5 +1,6 @@
 import React from "react";
 import useCustomCounter from "./Custom";
+
 function App() {
   const data = useCustomCounter();
   const data1 = useCustomCounter();
